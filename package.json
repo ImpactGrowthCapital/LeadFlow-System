@@ -29,6 +29,3 @@
     "postcss": "^8.5.10"
   }
 }
-NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
-
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_publishable_keyhttps://mrwdoryzrshavjaxgwhx.supabase.co/rest/v1/

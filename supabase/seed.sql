@@ -1,0 +1,3 @@
+-- Optional development seed data. Replace the UUID with a real auth.users id.
+-- insert into public.leads (user_id, name, email, organization, stage, score)
+-- values ('00000000-0000-0000-0000-000000000000', 'Jordan Lee', 'jordan@example.com', 'Brightstead', 'Qualified', 78);
