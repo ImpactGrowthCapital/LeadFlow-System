@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# next.js output
+/.next/
+/out/
+
+# testing and tooling
+/coverage
+*.tsbuildinfo
+next-env.d.ts
+
+# environment configuration
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# logs
+*.log

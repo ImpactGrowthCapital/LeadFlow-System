@@ -1,0 +1,34 @@
+{
+  "name": "leadflow-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.57.0",
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "eslint": "^9.35.0",
+    "eslint-config-next": "^16.0.0",
+    "typescript": "^5.9.0"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
+  }
+}
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_publishable_keyhttps://mrwdoryzrshavjaxgwhx.supabase.co/rest/v1/
